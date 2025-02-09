@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CrudProductos.Modelos;
+using Microsoft.EntityFrameworkCore;
 
 namespace CrudProductos.Datos
 {
@@ -10,6 +11,7 @@ namespace CrudProductos.Datos
 
         }
         //Agregar los modelos (Todos los modelos creado se colocan aqui)
-        
+        public DbSet<Producto> Producto { get; set; }
+
     }
 }

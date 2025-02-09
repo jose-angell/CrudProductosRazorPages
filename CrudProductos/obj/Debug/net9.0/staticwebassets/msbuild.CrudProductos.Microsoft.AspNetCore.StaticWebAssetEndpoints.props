@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CrudProductos.8xb59iufdi.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8xb59iufdi"},{"Name":"integrity","Value":"sha256-nJxIQevr6ZAg9427g0vqqSo0Re51AxJ4aoZowaqS1NY="},{"Name":"label","Value":"_content/CrudProductos/CrudProductos.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nJxIQevr6ZAg9427g0vqqSo0Re51AxJ4aoZowaqS1NY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 01:20:16 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nJxIQevr6ZAg9427g0vqqSo0Re51AxJ4aoZowaqS1NY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 05:33:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CrudProductos/CrudProductos.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CrudProductos.8xb59iufdi.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nJxIQevr6ZAg9427g0vqqSo0Re51AxJ4aoZowaqS1NY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nJxIQevr6ZAg9427g0vqqSo0Re51AxJ4aoZowaqS1NY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 01:20:16 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nJxIQevr6ZAg9427g0vqqSo0Re51AxJ4aoZowaqS1NY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 05:33:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CrudProductos/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>

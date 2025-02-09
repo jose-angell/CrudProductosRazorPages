@@ -136,6 +136,7 @@ C:\Users\joseg\OneDrive\Documentos\NET\CrudProductos\CrudProductos\obj\Debug\net
 C:\Users\joseg\OneDrive\Documentos\NET\CrudProductos\CrudProductos\obj\Debug\net9.0\CrudProductos.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\joseg\OneDrive\Documentos\NET\CrudProductos\CrudProductos\obj\Debug\net9.0\CrudProductos.RazorAssemblyInfo.cache
 C:\Users\joseg\OneDrive\Documentos\NET\CrudProductos\CrudProductos\obj\Debug\net9.0\CrudProductos.RazorAssemblyInfo.cs
+C:\Users\joseg\OneDrive\Documentos\NET\CrudProductos\CrudProductos\obj\Debug\net9.0\CrudProductos.sourcelink.json
 C:\Users\joseg\OneDrive\Documentos\NET\CrudProductos\CrudProductos\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\joseg\OneDrive\Documentos\NET\CrudProductos\CrudProductos\obj\Debug\net9.0\scopedcss\bundle\CrudProductos.styles.css
 C:\Users\joseg\OneDrive\Documentos\NET\CrudProductos\CrudProductos\obj\Debug\net9.0\scopedcss\projectbundle\CrudProductos.bundle.scp.css
