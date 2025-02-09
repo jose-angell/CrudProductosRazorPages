@@ -1,0 +1,25 @@
+﻿@page
+@model CrudProductos.Pages.Productos.BorrarModel
+@{
+    ViewData["Title"] = "Borrar Producto";
+}
+
+
+<h1>Borrar Producto</h1>
+
+<p>Estas seguro de que deseas borrar este producto?</p>
+<div class="card mb-3">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Producto.Nombre</h5>
+        <p class="card-text">
+            <strong>Precio: </strong>@Model.Producto.Precio.ToString("C") <br />
+            <strong>Stock: </strong>@Model.Producto.Stock <br />
+            <strong>Fecha de Creacion: </strong>@Model.Producto.FechaCreacion.ToString("g") <br />
+        </p>
+    </div>
+</div>
+
+<form method="post">
+    <button type="submit" class="btn btn-outline-danger">Borrar</button>
+    <a asp-page="Index" class="btn btn-outline-secondary" >Cancelar</a>
+</form>
