@@ -1,13 +1,11 @@
 ﻿@page
-@model CrudProductos.Pages.Productos.BorrarModel
+@model CrudProductos.Pages.Productos.DetalleModel
 @{
-    ViewData["Title"] = "Borrar Producto";
+    ViewData["Title"] = "Detalle de Producto";
 }
 
+<h1>Detalle de Producto</h1>
 
-<h1>Borrar Producto</h1>
-
-<p>Estas seguro de que deseas borrar este producto?</p>
 <div class="card mb-3">
     <div class="card-body">
         <h5 class="card-title">@Model.Producto.Nombre</h5>
@@ -18,8 +16,4 @@
         </p>
     </div>
 </div>
-
-<form method="post">
-    <button type="submit" class="btn btn-outline-danger"><i class="bi bi-trash"></i> Borrar</button>
-    <a asp-page="Index" class="btn btn-outline-secondary" >Cancelar</a>
-</form>
+<a asp-page="Index" class="btn btn-outline-secondary"><i class="bi bi-arrow-return-left"></i> Volver atras</a>
