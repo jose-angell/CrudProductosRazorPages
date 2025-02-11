@@ -17,4 +17,9 @@ la base de datos.
 
 ## Guia de inicio desde cero y configuracoin inicial.
 1. Utilizando la plantilla de VS de Aplicacion web de ASP.NET Core, en este caso se uso .NET 9
-2. 
+2. Se deben instalar las dependencias necesarias para poder interactuar con la base de datos, 
+    - Microsoft.EntityFrameworkCore.SqlServer (esto varia segun la DB utilizada)
+    - Microsoft.EntityFrameworkCore.Tools
+3. En appseting.json se coloca la cadena de conexion a la Base de Datos
+    - `"ConnectionStrings": { "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB DataBase=CrudProductosRazorDB;Trusted_Connection=True;MultipleActiveResultSets=true"}`
+4. Dentro de la carpeta "Data" crear la clase "ApplicationDbContext"  
