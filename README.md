@@ -40,3 +40,7 @@ la base de datos.
 ![migracion](/images/migracion.png)
 9. Crear las paginas y usar los modelos
 ![paginasRazor](/images/paginasRazor.png)
+
+
+## Herramientas
+[tutorialMarkdown](https://tutorialmarkdown.com/guia) guia para utilizar markdown
